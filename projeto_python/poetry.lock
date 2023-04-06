@@ -1,0 +1,28 @@
+[[package]]
+name = "django-user"
+version = "0.2.1"
+description = "Django User"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "pizza"
+version = "0.1.2"
+description = "a model project for a Python command-line script"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "e56e10073e30a54b5f2fcb105544d45faed3d557d2a2b2431f4ccb8c300999b5"
+
+[metadata.files]
+django-user = [
+    {file = "django-user-0.2.1.tar.gz", hash = "sha256:ab0e502d234b0369a69405ea082797e19e9853e82be1c9044799cc98e32b3bf3"},
+]
+pizza = [
+    {file = "Pizza-0.1.2.tar.gz", hash = "sha256:dd4556716eed0874ab7b018ba4752615a5dcb83ee7d8d6d9fd54189242b7ce6d"},
+]
